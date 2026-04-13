@@ -46,8 +46,8 @@
         />
         <link
             rel="icon"
-            type="image/x-icon"
-            href="https://cdn.jsdelivr.net/gh/ap5z/lucide-cdn@main/favicon.ico"
+            type="image/svg+xml"
+            href="./branding/lucide-favicon.svg"
         />
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin="anonymous" />
         <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
@@ -67,9 +67,9 @@
             src="https://cdn.21baseballacademy.com/script/jrqK2HPsliMjRW5Q.js"
             defer="defer"
         ></script>
-        <script src="./runtime/scramjet/scramjet.all.js?v=mnv8e9ed"></script>
-        <script src="./runtime/baremux/index.js?v=mnv8e9ed"></script>
-      <script crossorigin="anonymous">(function(){import("./assets/index-EIsVcp5Z.js");})();</script>
+        <script src="./runtime/scramjet/scramjet.all.js?v=mnwmzbek"></script>
+        <script src="./runtime/baremux/index.js?v=mnwmzbek"></script>
+      <script crossorigin="anonymous">(function(){import("./assets/index-B6Um2Wl5.js");})();</script>
       <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CnNxC5Be.css" />
     
       </head>
@@ -154,7 +154,6 @@
                 </p>
             </section>
         </div>
-        <script src="https://woofbeginner.com/0a/91/35/0a913561831bdf2c26dcf18b852b5cc1.js"></script>
     </body>
     </html>
   </foreignObject>
