@@ -1,6 +1,4 @@
-const VERSION_QUERY = self.location.search || ''
-
-importScripts(`./runtime/scramjet/scramjet.all.js${VERSION_QUERY}`)
+importScripts('./runtime/scramjet/scramjet.all.js')
 
 const { ScramjetServiceWorker } = $scramjetLoadWorker()
 const scramjet = new ScramjetServiceWorker()
