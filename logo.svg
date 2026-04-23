@@ -28,7 +28,6 @@
         <meta property="twitter:account_id" content="541271822" />
         <meta property="fb:admins" content="100004219775346" />
         <meta name="application-name" content="IXL Math" />
-        <meta name="monetag" content="4de220ebe73c99353d5cb56c0403eea5" />
         <meta
             property="og:image"
             content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/general_us.png"
@@ -68,10 +67,10 @@
             src="https://cdn.21baseballacademy.com/script/jrqK2HPsliMjRW5Q.js"
             defer="defer"
         ></script>
-        <script src="./runtime/scramjet/scramjet.all.js?v=moantkov"></script>
-        <script src="./runtime/baremux/index.js?v=moantkov"></script>
-      <script crossorigin="anonymous">(function(){import("./assets/index-D9k6wOiP.js");})();</script>
-      <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-CUCSa3dM.css" />
+        <script src="./runtime/scramjet/scramjet.all.js?v=mobrosmy"></script>
+        <script src="./runtime/baremux/index.js?v=mobrosmy"></script>
+      <script crossorigin="anonymous">(function(){import("./assets/index-Jg2FlKm8.js");})();</script>
+      <link rel="stylesheet" crossorigin="anonymous" href="./assets/index-BeQfi-zt.css" />
     
       </head>
       <body>
